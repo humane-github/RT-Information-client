@@ -1,0 +1,13 @@
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\obj\x86\Debug\ChatClient.form.ChatClient.resources
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\obj\x86\Debug\ChatClient.form.frmConfig.resources
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\bin\Debug\HFileLib.dll
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\bin\Debug\HFileLib.pdb
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\obj\x86\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\bin\Debug\NetLib.dll
+C:\DEV\17.InformationClerk\10.src\ChatClient\ChatClient\bin\Debug\NetLib.pdb
